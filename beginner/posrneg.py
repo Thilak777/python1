@@ -1,7 +1,5 @@
-num = float(input("Enter a number: "))
-if (1<= num <= 100000) :
-   print("Positive number")
-elif num == 0:
-   print("Zero")
+b=input("enter the number")
+if b==%2:
+   print("even")
 else:
-   print("Negative number")
+   print("odd")
